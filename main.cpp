@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-  int a, b, c;
+  float a, b, c;
   cout << "base of the triangle: ";
   cin >> a;
   cout << "height of the triangle ";
